@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/HeyDoggy/DoggyClient/main/banner.png" alt="Doggy Client Banner" width="100%">
 </div>
 
 <br>
-<div align="center">
 
 # 🐶 DOGGY CLIENT
 
