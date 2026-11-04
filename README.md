@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="assets/banner.png" width="100%">
+</div>
 
+<br>
 <div align="center">
 
 # 🐶 DOGGY CLIENT
