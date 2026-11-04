@@ -70,7 +70,7 @@ Check the official Releases page for updates and version history.
 
 ### 🐶 DOGGY CLIENT
 
-**Built with ❤️ by HeyDoggy**
+**Built with ❤️ by Amir = Sbiw/JigarTala/MrDoggy**
 
 *Dream it. Build it. Experience it.*
 
