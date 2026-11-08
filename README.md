@@ -58,6 +58,10 @@ Get the latest official version of Doggy Client.
 
 Coming soon...
 
+🚀 IT'S FINALLY HAPPENING!
+
+🐶 OFFICIAL RELEASE: NOVEMBER 12, 2026
+
 ## 📋 CHANGELOG
 
 Check the official Releases page for updates and version history.
