@@ -74,7 +74,22 @@ Check the official Releases page for updates and version history.
 
 ### 🐶 DOGGY CLIENT
 
+
+## 🧪 BETA VERSION — EARLY RELEASE
+
+**Doggy Client is currently in its early Beta stage.**
+
+This is our first experimental release, and we're still working hard to improve the experience.
+
+We sincerely apologize if you encounter any bugs, errors, or unexpected issues while using the client. Please remember that this is an early testing version, and some features may not work perfectly yet.
+
+We truly hope you enjoy using Doggy Client, and we hope you'll be satisfied with what we've built.
+
+**Thank you for being part of our journey. Your support means a lot to us. ❤️**
+
+
 **Built with ❤️ by Amir = Sbiw / JigarTala**
+
 
 *Dream it. Build it. Experience it.*
 
