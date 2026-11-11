@@ -97,9 +97,17 @@ i want doggy client to keep growing with its community. so if you'd like to see 
 
 **every suggestion matters.** i promise that every single suggestion will be carefully reviewed and considered for future updates.
 
+## 🎮 FUTURE VERSION SUPPORT
+
+Minecraft versions **1.9, 1.16.5, 1.21, and 26** are planned to be added in future updates of Doggy Client!
+
+More versions, more possibilities, and more ways to enjoy Doggy Client. ❤️🌲
+
+
 let's build something amazing together. ❤️🌲
 
 ----------------------------------------------
+
 **Built with ❤️ by Amir = Sbiw / JigarTala**
 
 
