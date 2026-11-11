@@ -87,7 +87,19 @@ We truly hope you enjoy using Doggy Client, and we hope you'll be satisfied with
 
 **Thank you for being part of our journey. Your support means a lot to us. ❤️**
 
+## 🚀 UPDATE ROADMAP
 
+on november 12, you'll receive **update #1**, along with the very first official release of doggy client!
+
+updates **#2 through #10** are planned to roll out gradually over the next **2 years**. that's right! doggy client is a long-term project, and it's planned to keep receiving updates, improvements, and new features throughout these two years.
+
+i want doggy client to keep growing with its community. so if you'd like to see new mods or features that don't give players an unfair advantage over others, but simply make the game look better, feel more enjoyable, and stay lightweight, please share your suggestions with me!
+
+**every suggestion matters.** i promise that every single suggestion will be carefully reviewed and considered for future updates.
+
+let's build something amazing together. ❤️🌲
+
+----------------------------------------------
 **Built with ❤️ by Amir = Sbiw / JigarTala**
 
 
