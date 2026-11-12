@@ -103,6 +103,7 @@ Minecraft versions **1.9, 1.16.5, 1.21, and 26** are planned to be added in futu
 
 More versions, more possibilities, and more ways to enjoy Doggy Client. ❤️🌲
 
+**Support Discord Activity Status**
 
 let's build something amazing together. ❤️🌲
 
