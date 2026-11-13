@@ -60,7 +60,7 @@ Coming soon...
 
 🚀 IT'S FINALLY HAPPENING!
 
-🐶 OFFICIAL RELEASE: NOVEMBER 12, 2026
+🐶 OFFICIAL RELEASE: NOVEMBER 12, 2026 or maybe 14,15
 
 ## 📋 CHANGELOG
 
@@ -89,7 +89,7 @@ We truly hope you enjoy using Doggy Client, and we hope you'll be satisfied with
 
 ## 🚀 UPDATE ROADMAP
 
-on november 12, you'll receive **update #1**, along with the very first official release of doggy client!
+on november 12 or maybe 14,15 you'll receive **update #1**, along with the very first official release of doggy client!
 
 updates **#2 through #10** are planned to roll out gradually over the next **2 years**. that's right! doggy client is a long-term project, and it's planned to keep receiving updates, improvements, and new features throughout these two years.
 
